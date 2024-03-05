@@ -1,6 +1,6 @@
 <h1>Hi, I'm Joymar!🏳️‍🌈 </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/Joymarparedes/ActiveDirectoryLab)
 
