@@ -3,6 +3,7 @@
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/Joymarparedes/ActiveDirectoryLab)
+- [File permissions in Linux](https://github.com/Joymarparedes/File-permissions-in-Linux)
 
 <h2>Certifications</h2>
 
