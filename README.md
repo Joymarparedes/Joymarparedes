@@ -5,6 +5,7 @@
 - [Active Directory Home Lab](https://github.com/Joymarparedes/ActiveDirectoryLab)
 - [File permissions in Linux](https://github.com/Joymarparedes/File-permissions-in-Linux)
 - [Apply filters to SQL queries](https://github.com/Joymarparedes/Apply-filters-to-SQL-queries)
+- [How to read the DNS & HTTP traffic log](https://github.com/Joymarparedes/How-to-read-the-DNS-HTTP-traffic-log)
 <h2>Certifications</h2>
 
 - [Google's Course (Tools of the Trade: Linux and SQL)](https://www.coursera.org/account/accomplishments/verify/RYCGBAJDWB97)
