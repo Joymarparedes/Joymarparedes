@@ -8,7 +8,7 @@
 - [How to read the DNS & HTTP traffic log](https://github.com/Joymarparedes/How-to-read-the-DNS-HTTP-traffic-log)
 <h2>Certifications</h2>
 
-- [Google Cybersecurity by Google on Coursera.)](https://www.coursera.org/account/accomplishments/specialization/WH7H5V5R9DN4)
+- [Google Cybersecurity by Google on Coursera](https://www.coursera.org/account/accomplishments/specialization/WH7H5V5R9DN4)
 - [U.S. Department of Homeland Security's Carrier Liaison Training Program (Immigration Law, Entry requirements, and Document)](https://www.linkedin.com/in/joymar-paredes-8309b4249/details/certifications/1635552595398/single-media-viewer/?profileId=ACoAAD2M1qQBQGn1jw7LUdw5bkZTAnkmcLPwDQs)
 - [American Airline's International Security Program (Extraordinary Stations)](https://www.linkedin.com/in/joymar-paredes-8309b4249/details/certifications/1635552591940/single-media-viewer/?profileId=ACoAAD2M1qQBQGn1jw7LUdw5bkZTAnkmcLPwDQs)
 
