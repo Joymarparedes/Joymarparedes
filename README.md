@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joymar!🏳️‍🌈 </h1>
+<h1>Hi, I'm Joymar!🏳️‍🌈 </h1> <script src="https://tryhackme.com/badge/3167444"></script>
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
