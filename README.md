@@ -10,6 +10,7 @@
 
 - [CompTIA Security+](https://www.credly.com/badges/a2d3e13c-057b-485a-9db7-e33e1e3b4a79/linked_in_profile)
 - [Google Cybersecurity by Google on Coursera](https://www.coursera.org/account/accomplishments/specialization/WH7H5V5R9DN4)
+- [Jr Penetration Tester by Try Hack Me](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JVXEZDAAHL.png)
 - [U.S. Department of Homeland Security's Carrier Liaison Training Program (Immigration Law, Entry requirements, and Document)](https://www.linkedin.com/in/joymar-paredes-8309b4249/details/certifications/1635552595398/single-media-viewer/?profileId=ACoAAD2M1qQBQGn1jw7LUdw5bkZTAnkmcLPwDQs)
 - [American Airline's International Security Program (Extraordinary Stations)](https://www.linkedin.com/in/joymar-paredes-8309b4249/details/certifications/1635552591940/single-media-viewer/?profileId=ACoAAD2M1qQBQGn1jw7LUdw5bkZTAnkmcLPwDQs)
 
