@@ -1,5 +1,4 @@
-<h1>Hi, I'm Joymar!🏳️‍🌈 </h1> <script src="https://tryhackme.com/badge/3167444"></script>
-
+<h1>Hi, I'm Joymar!🏳️‍🌈 </h1> <img src="https://tryhackme-badges.s3.amazonaws.com/crimsonalmond.png" alt="TryHackMe">
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/Joymarparedes/ActiveDirectoryLab)
