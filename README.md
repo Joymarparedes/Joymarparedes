@@ -5,6 +5,7 @@
 - [File permissions in Linux](https://github.com/Joymarparedes/File-permissions-in-Linux)
 - [Apply filters to SQL queries](https://github.com/Joymarparedes/Apply-filters-to-SQL-queries)
 - [How to read the DNS & HTTP traffic log](https://github.com/Joymarparedes/How-to-read-the-DNS-HTTP-traffic-log)
+- [Network Project on Packet Tracer](https://github.com/Joymarparedes/PacketTracerNetworkProject)
 <h2>Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/a2d3e13c-057b-485a-9db7-e33e1e3b4a79/linked_in_profile)
