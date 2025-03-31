@@ -1,6 +1,7 @@
 <h1>Hi, I'm Joymar!🏳️‍🌈 </h1> <img src="https://tryhackme-badges.s3.amazonaws.com/crimsonalmond.png" alt="TryHackMe">
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
+- [Penseek 1.0](https://github.com/Joymarparedes/Penseek1.0)
 - [Active Directory Home Lab](https://github.com/Joymarparedes/ActiveDirectoryLab)
 - [File permissions in Linux](https://github.com/Joymarparedes/File-permissions-in-Linux)
 - [Apply filters to SQL queries](https://github.com/Joymarparedes/Apply-filters-to-SQL-queries)
