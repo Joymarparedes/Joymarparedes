@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joymar!🏳️‍🌈 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3167444" style='border:none;'></iframe>
+<h1>Hi, I'm Joymar!🏳️‍🌈 <img src="https://tryhackme-badges.s3.amazonaws.com/crimsonalmond.png" alt="Your Image Badge" />
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
 - [Penseek 1.0](https://github.com/Joymarparedes/Penseek1.0)
