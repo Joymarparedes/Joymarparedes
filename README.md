@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joymar!🏳️‍🌈
+<h1>Hi, I'm Joymar!
   <img src="https://tryhackme-badges.s3.amazonaws.com/crimsonalmond.png" alt="Your Image Badge" />
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
